@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.kambaa.tanhoda.Homepagetest.HomepageTest">
+        <methods>
+          <include name="NADPSCHEMEVIEWDETAILS"/>
+          <include name="NADPAPPLYSCHEME"/>
+          <include name="teardown"/>
+          <include name="NBMSCHEMEVIEWDETAILS"/>
+          <include name="HOMEPAGELINK"/>
+          <include name="NHMAPPLYSCHEME"/>
+          <include name="CONTACTLINK"/>
+          <include name="initialize"/>
+          <include name="NBMAPPLYSCHEME"/>
+          <include name="NHMSCHEMEVIEWDETAILS"/>
+        </methods>
+      </class> <!-- com.kambaa.tanhoda.Homepagetest.HomepageTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
